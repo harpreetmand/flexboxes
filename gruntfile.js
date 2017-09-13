@@ -1,4 +1,3 @@
-// This shows a full config file!
 module.exports = function (grunt) {
     grunt.initConfig({
         watch: {
